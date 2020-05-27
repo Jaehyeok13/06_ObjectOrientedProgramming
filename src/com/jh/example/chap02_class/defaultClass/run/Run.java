@@ -1,4 +1,4 @@
-package com.jh.example.example.chap02_class.defaultClass.run;
+package com.jh.example.chap02_class.defaultClass.run;
 
 public class Run {
 
